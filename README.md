@@ -9,7 +9,7 @@
 <img align="right" height="150px" width="250px" alt="GIF" src="https://media.giphy.com/media/DzI57t756gjEuWMdU4/giphy.gif" />
 
 
-<p align="center"> <samp> I am a Full Stack Java Developer. I love everything about techologies, innovations and health tech. Welcome to my personal profile! 
+<p align="center"> <samp> I am a Full Stack Java Developer. I love everything about technologies, innovations and health tech. Welcome to my personal profile! 
   
 
 
