@@ -4,14 +4,14 @@
 
 
 
-<h1 align="center" style="font-family: 'Times', sans-serif;">🏛️  Hi everyone, I'm Arturo! 🏛️ </h1>  
+<h1 align="center" style="font-family: 'Times', sans-serif;">🖥️  Hi everyone, I'm Lohan! 💻 </h1>  
 
-<img align="right" height="100px" width="250px" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
+<img align="right" height="150px" width="250px" alt="GIF" src="https://media.giphy.com/media/DzI57t756gjEuWMdU4/giphy.gif" />
 
 
-<p align="center"> <samp> I am a Mechanical Engineering student. I'm passionate about learning and teaching. Welcome to my personal profile! 
+<p align="center"> <samp> I am a Full Stack Java Developer. I love everything about techologies, innovations and health tech. Welcome to my personal profile! 
   
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8327-7790" href="https://orcid.org/0000-0001-8327-7790" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8327-7790</a></div>  
+
 
 
 <hr>
