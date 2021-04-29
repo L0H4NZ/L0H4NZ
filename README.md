@@ -49,7 +49,7 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/lohan-alves-almeida/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lohanalvesmuller@gmail.com?subject=Hi%20Arturo,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/Lohan-Alves-Almeida" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.researchgate.net/profile/Lohan-Alves-Almeida"><img alt="ResearchGate" src="https://img.shields.io/badge/-Researchgate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://orcid.org/0000-0003-2763-4487" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!--<a href="https://open.spotify.com/user/22izpiow2crgirhnndadakhta"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://discord.gg/ZRuBWz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>-->
